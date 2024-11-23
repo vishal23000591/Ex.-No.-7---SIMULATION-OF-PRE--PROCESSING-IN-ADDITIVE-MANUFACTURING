@@ -1,7 +1,7 @@
 # Ex. No.6.1  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE: 26-10-24
 ## AIM:
--### To simulate the Pre Processing for 3D printing.-
+### To simulate the Pre Processing for 3D printing.-
 
 ## REQUIREMENTS:
 ### System - Windows 7 or higher, 1 GB RAM.
@@ -40,9 +40,10 @@
 
 
 ## Output:
-![1](https://github.com/user-attachments/assets/78ec5de9-4f49-4a5e-b5b2-c6da095dc032)
-![2](https://github.com/user-attachments/assets/11d1628f-aab9-4542-a24f-e79d5107f664)
-![3](https://github.com/user-attachments/assets/6154ed9c-0628-46b6-b6a3-2e79bb40793a)
+![WhatsApp Image 2024-11-23 at 10 49 48_e540d594](https://github.com/user-attachments/assets/bbed292a-a609-4a76-8aa0-5ef430408808)
+![WhatsApp Image 2024-11-23 at 10 49 48_d1b79d5a](https://github.com/user-attachments/assets/da51bd0e-75b1-4431-802a-3386ea9651c9)
+![WhatsApp Image 2024-11-23 at 10 49 48_7757999b](https://github.com/user-attachments/assets/1db6ae15-deba-4795-af61-da6daf6e0c9c)
+
 ![275325977-3838ed2b-bacb-4e32-b717-5ee14d43db62](https://github.com/user-attachments/assets/48a291a7-c1de-49f0-94ca-7e2bbb53b8a8)
 
 ### Name: VISHAL S
